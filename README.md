@@ -1,12 +1,39 @@
-# React + Vite
+# Fabel Bakery 🍞🎂
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully designed and responsive bakery website to showcase Fabel Bakery's delightful products, crafted using modern web technologies.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Visit the Live Website](https://fabel-bakery.netlify.app/)
 
-## Expanding the ESLint configuration
+## 🎯 Project Overview
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Fabel Bakery is an elegant web presence for a local bakery, featuring rich visuals, responsive design, and key sections like product listings, testimonials, contact form, and more.
+
+## 🛠️ Tech Stack
+
+- ⚛️ React (with Vite)
+- 🎨 Tailwind CSS / CSS Modules / Styled Components (choose based on your project)
+- 🔄 React Router (if used for page routing)
+- 📧 EmailJS / Formspree (for contact forms, if integrated)
+- 🌐 Hosting: Netlify / Vercel / GitHub Pages
+
+## 📁 Features
+
+- 🧁 Product Gallery (cakes, pastries, breads, etc.)
+- 📱 Fully responsive on all devices
+- 🧾 About & Testimonials section
+- 📍 Contact form with map/location (optional)
+- 🔍 SEO-friendly and fast performance
+
+## 🖼️ Screenshot
+
+![Fabel Bakery Homepage](./screenshot.png) <!-- Add a real screenshot of your homepage here -->
+
+## 📦 Installation (for developers)
+
+```bash
+git clone https://github.com/yourusername/fabel-bakery.git
+cd fabel-bakery
+npm install
+npm run dev
