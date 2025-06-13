@@ -1,0 +1,33 @@
+.main-service{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    margin: 0;
+    margin-top: 20px;
+    border: 2px solid #f30c0c;
+    height: 90vh;
+    max-width: 100%;
+}
+
+.main-card.row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+.main-card{
+    width: 100%;
+    gap: 30px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    height: auto;
+}
+.card1{
+    height: 400px;
+    min-width: 420px;
+    border: 1px solid red;
+}
